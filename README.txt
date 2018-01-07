@@ -1,4 +1,4 @@
-=== Simple Age Restriction Warning ===
+=== Round Up Woocommerce Catalog Prices ===
 Contributors: neevalex
 Donate link: http://neevalex.com
 Tags: Woocomerce prices, round up, round up prices, good looking prices, round prices, round up catalog prices
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Simple Woocommerce Round Up Prices plugin allows you to round the prices in the Woocommerce product catalog in order to force the visualy appealing values instead of ugly decimals. Round up to a nearest .10, .15 , .25 , .50 cents or to a nearest dollar.
+Woocommerce Round Up Prices plugin allows you to round the prices in the Woocommerce product catalog in order to force the visualy appealing values instead of ugly decimals. Round up to a nearest .10, .15 , .25 , .50 cents or to a nearest dollar.
 
 **Demo:** [http://xmlproductfeed.neevalex.com/shop](http://xmlproductfeed.neevalex.com/shop)
 **Git:** [https://github.com/neevalex/woocommerce-round-up-prices](https://github.com/neevalex/woocommerce-round-up-prices)

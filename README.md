@@ -1,4 +1,4 @@
-# Wordpress Simple Woocommerce Round Up Prices plugin
+# Round Up Woocommerce Catalog Prices plugin
 
 Simple Woocommerce Round Up Prices plugin allows you to round the prices in the Woocommerce product catalog in order to force the visualy appealing values instead of ugly decimals. Round up to a nearest .10, .15 , .25 , .50 cents or to a nearest dollar.
 
