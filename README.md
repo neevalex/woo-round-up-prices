@@ -4,7 +4,7 @@ Simple Woocommerce Round Up Prices plugin allows you to round the prices in the 
 
 WP Repository: https://wordpress.org/plugins/woocommerce-round-up-prices/
 
-
+Demo: http://xmlproductfeed.neevalex.com/shop/
 
 <h3>Settings Page</h3>
 <img src="https://i.imgur.com/D91pP2V.png" />
