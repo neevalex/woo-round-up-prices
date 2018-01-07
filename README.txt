@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Woocommerce Round Up Prices plugin allows you to round the prices in the Woocommerce product catalog in order to force the visualy appealing values instead of ugly decimals. Round up to a nearest .10, .15 , .25 , .50 cents or to a nearest dollar.
 
 **Demo:** [http://xmlproductfeed.neevalex.com/shop](http://xmlproductfeed.neevalex.com/shop)
-**Git:** [https://github.com/neevalex/woocommerce-round-up-prices](https://github.com/neevalex/woocommerce-round-up-prices)
+**Git:** [https://github.com/neevalex/woo-round-up-prices](https://github.com/neevalex/woo-round-up-prices)
 
 
 == Installation ==
